@@ -1,0 +1,41 @@
+Step;Description;Expected Result;Obtained Result;Duration;Evidence
+1;Navigate to url: "http://newtours.demoaut.com/";The page was successfully loaded;The page was successfully loaded;00:00:04;evidence/001_navigate.png
+2;Type 'mercury' in the field 'userName';The field was successfully filled;The field was successfully filled;00:00:01;evidence/002_sendKeys.png
+3;Type 'mercury' in the field 'password';The field was successfully filled;The field was successfully filled;00:00:01;evidence/003_sendKeys.png
+4;Click in 'login';The object was successfully clicked;The object was successfully clicked;00:00:06;evidence/004_click.png
+5;Click in 'oneway';The object was successfully clicked;The object was successfully clicked;00:00:01;evidence/005_click.png
+6;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/006_selectByValue.png
+7;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/007_selectByValue.png
+8;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/008_selectByValue.png
+9;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/009_selectByValue.png
+10;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0010_selectByValue.png
+11;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0011_selectByValue.png
+12;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0012_selectByValue.png
+13;Click in 'Business';The object was successfully clicked;The object was successfully clicked;00:00:01;evidence/0013_click.png
+14;Select value 'Blue Skies Airlines' in the dropdown item 'airline';The value was successfully selected;The value was successfully selected;00:00:00;evidence/0014_selectByVisibleText.png
+15;Click in 'findFlights';The object was successfully clicked;The object was successfully clicked;00:00:02;evidence/0015_click.png
+16;Get the Text from 'DEPART';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0016_getText.png
+17;Get the Text from 'London to Frankfurt';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0017_getText.png
+18;Get the Text from '5/15/2018';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0018_getText.png
+19;Click in 'reserveFlights';The object was successfully clicked;The object was successfully clicked;00:00:02;evidence/0019_click.png
+20;Get the Text from 'Summary';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0020_getText.png
+21;Type 'Juliana' in the field 'passFirst0';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0021_sendKeys.png
+22;Type 'Carvalho' in the field 'passLast0';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0022_sendKeys.png
+23;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0023_selectByValue.png
+24;Type 'Tatiana' in the field 'passFirst1';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0024_sendKeys.png
+25;Type 'Carvalho' in the field 'passLast1';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0025_sendKeys.png
+26;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0026_selectByValue.png
+27;Type 'Gilson' in the field 'passFirst2';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0027_sendKeys.png
+28;Type 'Fernandes' in the field 'passLast2';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0028_sendKeys.png
+29;Do the action: selectByValue(Action not mapped, call one of our test analysts to increase this library :) );The action is successfully made;The action is successfully made;00:00:00;evidence/0029_selectByValue.png
+30;Select value 'MasterCard' in the dropdown item 'creditCard';The value was successfully selected;The value was successfully selected;00:00:00;evidence/0030_selectByVisibleText.png
+31;Type '5555444433332222' in the field 'creditnumber';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0031_sendKeys.png
+32;Select value '11' in the dropdown item 'cc_exp_dt_mn';The value was successfully selected;The value was successfully selected;00:00:00;evidence/0032_selectByVisibleText.png
+33;Select value '2010' in the dropdown item 'cc_exp_dt_yr';The value was successfully selected;The value was successfully selected;00:00:00;evidence/0033_selectByVisibleText.png
+34;Type 'Elias' in the field 'cc_frst_name';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0034_sendKeys.png
+35;Type 'Santos' in the field 'cc_mid_name';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0035_sendKeys.png
+36;Type 'Pereira' in the field 'cc_last_name';The field was successfully filled;The field was successfully filled;00:00:01;evidence/0036_sendKeys.png
+37;Click in 'buyFlights';The object was successfully clicked;The object was successfully clicked;00:00:02;evidence/0037_click.png
+38;Get the Text from 'Flight ';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0038_getText.png
+39;Get the Text from 'Confirmation # 2018';The text is successfully retrieved;The text is successfully retrieved;00:00:00;evidence/0039_getText.png
+40;Click in 'mercurysignoff.php';The object was successfully clicked;The object was successfully clicked;00:00:02;evidence/0040_click.png

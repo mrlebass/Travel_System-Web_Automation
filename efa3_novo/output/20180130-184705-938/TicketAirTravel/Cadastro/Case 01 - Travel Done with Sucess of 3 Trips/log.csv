@@ -1,0 +1,5 @@
+Step;Description;Expected Result;Obtained Result;Duration;Evidence
+1;Navigate to url: "http://newtours.demoaut.com/";The page was successfully loaded;The page was successfully loaded;00:00:02;evidence/001_navigate.png
+2;Type 'mercury' in the field 'userName';The field was successfully filled;The field was successfully filled;00:00:01;evidence/002_sendKeys.png
+3;Type 'mercury' in the field 'password';The field was successfully filled;The field was successfully filled;00:00:01;evidence/003_sendKeys.png
+4;Click in 'login';The object was successfully clicked;The object was successfully clicked;00:00:15;evidence/004_click.png
