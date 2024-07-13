@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=3db1ff&text=Travel%20System&textBg=false&fontColor=008000"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=3db1ff&text=Travel%20System&textBg=false&fontColor=ffb2a5"/>
 
 
 
